@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ibb.co/jk8j84Z"  />
+  <a href="https://ibb.co/jk8j84Z"><img src="https://i.ibb.co/YBNVNjT/banner-2.png" alt="banner-2" border="0"></a>
 </div>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img height="231" src="https://jmp.sh/s/maEm1LsDTq7XDzUiIXbg"  />
+  <a href="https://ibb.co/V3Fd89d"><img src="https://i.ibb.co/3kxwHdw/banner-3.png" alt="banner-3" border="0"></a>
 </div>
 
 ###
@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://jmp.sh/s/ynREfIcJILeKcfilikIE"  />
+  <a href="https://ibb.co/ZV8x15D"><img src="https://i.ibb.co/g3TJFNK/banner-4.png" alt="banner-4" border="0"></a>
 </div>
 
 ###
