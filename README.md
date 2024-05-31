@@ -20,8 +20,8 @@
  <li>Proficient in Python, C++, and JavaScript</li>
  <li>Fluent in Hindi, Marathi, and English</li>
  <li>Enjoys smashing serves in table tennis</li>
+ <li>How to reach me: <a href="mailto:gujarprasad2004@gmail.com" style="text-decoration:none; font-weight:bold;">gujarprasad2004@gmail.com</a></li>
 </ul>
-<br>How to reach me: <a href="mailto:gujarprasad2004@gmail.com">gujarprasad2004@gmail.com</a>
 </p>
 
 
@@ -33,7 +33,15 @@
 
 ###
 
-<p align="left">- Training and Placement website for PICT: A platform allowing companies to register, post job listings, students to apply easily, and the college to manage all placement activities.<br>- Predicting and Forecasting of Cyberattacks: Developed a Tableau dashboard that accurately forecasts historical cyberattacks and predicts future ones using machine learning.<br>- Prasad's Blog: Built a website using React.js for hosting personal blogs.<br>- Legal Chatbot: Created a chatbot designed to provide answers related to Indian laws, assisting individuals in legal matters.</p>
+<p align="left">
+<ul>
+  <li><a href="https://github.com/Prasad2604/Placement-Management">Training and Placement website for PICT:</a> A platform allowing companies to register, post job listings, students to apply easily, and the college to manage all placement activities.</li>
+  <li><a href="https://github.com/Kunals0612/Cyber_threat_detection">Predicting and Forecasting of Cyberattacks:</a> Developed a Tableau dashboard that accurately forecasts historical cyberattacks and predicts future ones using machine learning.</li>
+  <li><a href="https://github.com/Prasad2604/blog_website">Prasad's Blog:</a> Built a website using React.js for hosting personal blogs.</li>
+  <li><a href="https://github.com/Prasad2604/HackWizards">Legal Chatbot:</a> Created a chatbot designed to provide answers related to Indian laws, assisting individuals in legal matters.</li>
+</ul>
+</p>
+
 
 ###
 
@@ -103,6 +111,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Prasad2604/count.svg?"  />
 </div>
+
+###
+
+<h3 align="center">Github Stats</h3>
 
 ###
 
