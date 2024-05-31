@@ -14,9 +14,16 @@
 
 <p align="left">
 <ul>
- <li> Full Stack Web Developer</li><br><li> Eager to learn about cybersecurity </li><br><li> Enjoys competitive programming</li><br><li> Proficient in Python, C++, and JavaScript</li><br><li> Fluent in Hindi, Marathi, and English</li><br><li> Enjoys smashing serves in table tennis</li><br>
- </ul>
- <br>How to reach me: <a>gujarprasad2004@gmail.com</a></p>
+ <li>Full Stack Web Developer</li>
+ <li>Eager to learn about cybersecurity</li>
+ <li>Enjoys competitive programming</li>
+ <li>Proficient in Python, C++, and JavaScript</li>
+ <li>Fluent in Hindi, Marathi, and English</li>
+ <li>Enjoys smashing serves in table tennis</li>
+</ul>
+<br>How to reach me: <a href="mailto:gujarprasad2004@gmail.com">gujarprasad2004@gmail.com</a>
+</p>
+
 
 ###
 
