@@ -105,7 +105,12 @@
 <h3 align="center">Profile Visitors</h3>
 
 ###
-  ![Profile views](https://komarev.com/ghpvc/?username=Prasad2604&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Prasad2604&label=Profile%20views&color=0e75b6&style=flat&count=123)
+  
+</div>
+
 
 ###
 
