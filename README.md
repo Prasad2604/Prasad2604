@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I am a Full-stack developer, diving into DSA, a cybersecurity enthusiast, and an engineering student at PICT (Pune Institute of Computer Technology).</h3>
+<h3 align="center">I am a Full-stack developer, diving into DSA, AI ML enthusiast, and an engineering student at PICT (Pune Institute of Computer Technology).</h3>
 
 ###
 
