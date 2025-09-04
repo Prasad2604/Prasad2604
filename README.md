@@ -15,11 +15,9 @@
 <p align="left">
 <ul>
  <li>Full Stack Web Developer</li>
- <li>Eager to learn about cybersecurity</li>
  <li>Enjoys competitive programming</li>
  <li>Proficient in Python, C++, and JavaScript</li>
  <li>Fluent in Hindi, Marathi, and English</li>
- <li>Enjoys smashing serves in table tennis</li>
  <li>How to reach me: <a href="mailto:gujarprasad2004@gmail.com" style="text-decoration:none; font-weight:bold;">gujarprasad2004@gmail.com</a></li>
 </ul>
 </p>
