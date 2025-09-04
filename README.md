@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Prasad2604/count.svg?"  />
+  ![Profile views](https://komarev.com/ghpvc/?username=Prasad2604&label=Profile%20views&color=0e75b6&style=flat)
 </div>
 
 ###
